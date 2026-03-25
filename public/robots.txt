@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://shopsense-ai-seven.vercel.app/sitemap.xml
+
+# Disallow crawling of internal build artifacts
+Disallow: /assets/*.map
