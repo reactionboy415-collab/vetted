@@ -4,7 +4,7 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
-    <loc>https://shopsense-ai-seven.vercel.app/</loc>
+    <loc>https://shop-sence-ai.vercel.app/</loc>
     <lastmod>2025-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
